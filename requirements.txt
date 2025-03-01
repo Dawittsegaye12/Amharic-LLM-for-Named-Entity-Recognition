@@ -1,0 +1,17 @@
+click==8.1.7
+colorama==0.4.6
+joblib==1.4.2
+nltk==3.9.1
+numpy==2.1.1
+pandas==2.2.3
+pyaes==1.6.1
+pyasn1==0.6.1
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+pytz==2024.2
+regex==2024.9.11
+rsa==4.9
+six==1.16.0
+Telethon==1.37.0
+tqdm==4.66.5
+tzdata==2024.2
